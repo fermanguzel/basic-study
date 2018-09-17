@@ -1,2 +1,3 @@
 # Calismalar
-Not Defteri üzerinden ilk deðiþiklik!
+Not Defteri uzerinden ilk degisiklik!
+Not Defteri uzerinden ikinci degisiklik!
