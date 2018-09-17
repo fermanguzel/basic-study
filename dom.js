@@ -15,3 +15,9 @@ for (let i = 0; i < sehirler.length; i++) {
 var classElemanlari=document.getElementsByClassName("intro1")
 classElemanlari[0].innerHTML="By Classname"
 alert(classElemanlari[0].innerHTML)
+
+var queryElemanlari=document.querySelectorAll("p.intro1")
+alert(queryElemanlari.length)
+
+var nameElemanlari=document.getElementsByName("musteriAdi")
+alert(nameElemanlari[0].value)
