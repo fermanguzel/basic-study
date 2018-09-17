@@ -1,2 +1,2 @@
 # Calismalar
-Bu Benim çalışmam
+Bu Benim çalışmamdır
