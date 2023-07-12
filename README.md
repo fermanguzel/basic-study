@@ -1,5 +1,5 @@
-# Calismalar
-Bu Benim çalışmamdır
+# Egitim
+Bunlar Eğitimdir
 
 # Bilgi
 Bu bir proje değildir
