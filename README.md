@@ -1,5 +1,5 @@
-# Egitim
-Bunlar Eğitimdir
+# Study
+This is study
 
-# Bilgi
-Bu bir proje değildir
+# Info
+These are not project
